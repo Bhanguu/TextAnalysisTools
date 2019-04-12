@@ -26,7 +26,7 @@ namespace Assignment_5_C0730065
 
 
                 Console.WriteLine(orange.Gematria("universe"));
-
+             
 
 
                 Console.ReadLine();
